@@ -146,7 +146,8 @@ PutProduct
    </soapenv:Body>
 </soapenv:Envelope>
 ```
-PutProductContacts```
+PutProductContacts
+```bash
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/" xmlns:prod="http://www.example.com/product">
    <soapenv:Header/>
    <soapenv:Body>
