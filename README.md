@@ -21,7 +21,7 @@ http://localhost:80/swagger/index.html
 Url to soap
 
 ```bash
-http://localhost/Service.asmx
+http://localhost:80/Service.asmx
 ```
 
 GetProduct
