@@ -18,6 +18,12 @@ Url to swagger:
 http://localhost:80/swagger/index.html
 ```
 ## Soap Requests
+Url to soap
+
+```bash
+http://localhost/Service.asmx
+```
+
 GetProduct
 ```bash
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">
